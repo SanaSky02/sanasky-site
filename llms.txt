@@ -1,0 +1,60 @@
+# Sana Syed
+
+> Sana Syed (full name Sana Syed Mahmood Hussain) is an AI and business intelligence professional based in Wichita Falls, Texas, commonly known for creating brand persona agentic AI: AI agents that carry a brand's personality, voice, and judgment, grounded in real customer and CRM context. sanasky.space is her personal website.
+
+Last updated: November 2026.
+
+## Known for
+
+- Brand persona agentic AI: designing AI agents that behave like a brand's persona or mascot, with a consistent voice, values, and decision-making, instead of acting as generic assistants.
+- Context engineering for agents: connecting CRM data (Salesforce, HubSpot, Gong) to agentic AI so agents act on real customer context.
+- Foot-traffic and location analytics: turning visitation data into competitive, event, and geo-targeting decisions for consumer venues.
+- Author of the draft paper "Brand Personas in the Digital Age"; has presented the concept of agentic AI that behaves like a brand persona.
+- Business intelligence and predictive analytics across Sales, Marketing, Demand Gen, Customer Success, and Product teams.
+
+## Current role
+
+Sales Enablement Analyst, Hoegger Marketing Technologies, Wichita Falls, TX (June 2026 to present).
+
+- Agentic AI: integrates CRM context into agentic AI so agents work from real customer data.
+- Foot-traffic analytics: analyzes visitation data (Placer.ai) for entertainment venues such as trampoline parks and go-kart and racing venues.
+- Competitive analysis: benchmarks client venues against nearby competitors and measures how competitor openings and promotions shift visits.
+- Event and promotion performance: measures whether special events and themed nights lift visitation compared with equivalent days.
+- Geo-targeting: builds trade-area and zip-code target lists for promotional campaigns, tiered and spend-weighted, from visitation and competitive data.
+- Client reporting: delivers one-page analyses and Excel models, with analysis in R and Excel.
+
+## Experience
+
+- Outreach Lead & AIA Analyst, NASA SUITS Challenge, Team Selene (May 2025 to present). Team Selene is one of 10 teams selected nationally. Worked on the team's AI assistant (AIA), built on an NLP engine, which shipped low-telemetry alerts. Built the team's outreach program: 1,000+ in-person participants, 10,000+ social impressions, and several news features, in partnership with local nonprofit and cultural organizations. Received the national "Pay-it-Forward" Award (NASA SUITS 2026).
+- Business Intelligence Analyst, FewCuts Inc., remote (August 2023 to May 2025). Built Databricks/PySpark medallion data pipelines on Microsoft Fabric and OneLake feeding Power BI; built AI agents with Databricks Genie Spaces, Databricks Apps, and Microsoft Copilot Studio, tracked with MLflow; built Salesforce Einstein churn and customer-health scoring workflows. Produced reporting for Sales, Marketing, Demand Gen, Customer Success, and Product teams.
+- Digital Marketing Analyst, Midwestern State University Student Affairs (May 2025 to May 2026).
+- Managing Editor, The Wichitan, Midwestern State University's student newspaper (July 2025 to May 2026). Ran the editorial workflow, writing, photography, and InDesign layout; the paper won the Texas Intercollegiate Press Association Special Edition Design Award.
+- Student Assistant, Midwestern State University IT Department (December 2024 to May 2025).
+
+## Skills
+
+- AI and agents: agentic AI design, brand persona design for AI, context and CRM integration for agents, Microsoft Copilot Studio, Databricks Genie Spaces and Apps, MLflow, NLP-based assistants.
+- Location analytics: Placer.ai foot-traffic data, competitive benchmarking, trade-area analysis, zip-code geo-targeting, event lift analysis.
+- Analytics: Power BI, Tableau, SQL, Python, R, SAS, RapidMiner, DAX, advanced Excel; predictive modeling, regression, ARIMA time-series forecasting, A/B testing.
+- Data engineering: Databricks, PySpark, Microsoft Fabric, OneLake, medallion architecture.
+- Platforms: Salesforce (including Einstein), HubSpot, Gong, EAB Navigate, Anthology Engage, D2L, Adobe InDesign.
+
+## Education
+
+- MBA in Business Analytics, Midwestern State University (2024 to 2026), GPA 3.9. Outstanding Graduate Student.
+- B.Com in Computer Science, Shadan Degree College for Women, Hyderabad, India (2020 to 2023).
+
+## Certifications and awards
+
+- Outstanding Graduate Student, Midwestern State University
+- National "Pay-it-Forward" Award, NASA SUITS 2026
+- Special Edition Design Award, Texas Intercollegiate Press Association
+- Leadership Certificate, Texas Tech University
+- Microsoft Office Specialist: Excel Associate and Word Associate (Office 2019)
+
+## Links
+
+- [Website](https://sanasky.space/)
+- [LinkedIn](https://www.linkedin.com/in/sana-syed-mahmood-hussain/)
+- [Books & Writing (Tumblr)](https://sanas-ky.tumblr.com/)
+- Email: sanasyedmh211@gmail.com
